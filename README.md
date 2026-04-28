@@ -1,14 +1,14 @@
-# Signal Studio GitHub Pages Site
+# Academic Placeholder GitHub Pages Site
 
-This project is a static website designed to work directly with GitHub Pages.
+This project is a static website designed to mirror the general structure of a
+minimal academic homepage while using only placeholder content.
 
 ## Files
 
-- `index.html`: main page
-- `styles.css`: layout, colors, responsive design, and animation styles
-- `script.js`: scroll reveal behavior
+- `index.html`: main page with placeholder navigation, profile copy, and sections
+- `styles.css`: minimalist academic-style layout and typography
+- `script.js`: dropdown behavior for the teaching and workshops menus
 - `404.html`: custom not found page for GitHub Pages
-- `assets/hero.png`: local hero artwork
 
 ## Publish on GitHub Pages
 
@@ -30,7 +30,13 @@ If the repository is named `YOUR-USERNAME.github.io`, it will publish at:
 
 ## Customize quickly
 
-- Replace `Signal Studio` with your project or name.
-- Update the `mailto:` link in `index.html`.
-- Swap `assets/hero.png` with your own image if you want a different visual.
-- Edit the text in each section to match your work, portfolio, or product.
+- Replace `Lorem Ipsum` with your project or name.
+- Update the footer email and department placeholders in `index.html`.
+- Replace the placeholder image URL with your own hosted image if you want a different visual.
+- Edit the navigation labels and section text to match your real content.
+
+## Placeholder image source
+
+The placeholder image references the Federal Reserve Bank of New York image from Wikimedia Commons:
+
+- https://commons.wikimedia.org/wiki/File:Federal_Reserve_Bank_of_New_York_004.jpg

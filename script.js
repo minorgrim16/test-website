@@ -1,20 +1,28 @@
-const reveals = document.querySelectorAll(".reveal");
+const navGroups = document.querySelectorAll(".nav-group");
 
-const observer = new IntersectionObserver(
-  (entries) => {
-    entries.forEach((entry) => {
-      if (entry.isIntersecting) {
-        entry.target.classList.add("is-visible");
-        observer.unobserve(entry.target);
+navGroups.forEach((group) => {
+  const button = group.querySelector(".nav-toggle");
+
+  button.addEventListener("click", () => {
+    const isOpen = group.classList.toggle("is-open");
+    button.setAttribute("aria-expanded", String(isOpen));
+
+    navGroups.forEach((otherGroup) => {
+      if (otherGroup !== group) {
+        otherGroup.classList.remove("is-open");
+        otherGroup
+          .querySelector(".nav-toggle")
+          .setAttribute("aria-expanded", "false");
       }
     });
-  },
-  {
-    threshold: 0.2,
-  }
-);
+  });
+});
 
-reveals.forEach((element, index) => {
-  element.style.transitionDelay = `${Math.min(index * 70, 280)}ms`;
-  observer.observe(element);
+document.addEventListener("click", (event) => {
+  navGroups.forEach((group) => {
+    if (!group.contains(event.target)) {
+      group.classList.remove("is-open");
+      group.querySelector(".nav-toggle").setAttribute("aria-expanded", "false");
+    }
+  });
 });
