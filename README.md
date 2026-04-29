@@ -10,7 +10,6 @@ minimal academic homepage while using only placeholder content.
 - `script.js`: intentionally empty placeholder script file
 - `404.html`: custom not found page for GitHub Pages
 - `assets/research-chart-1.svg`: research image placeholder
-- `assets/research-chart-2.svg`: research image placeholder
 - `assets/research-chart-3.svg`: research image placeholder
 
 ## Publish on GitHub Pages
