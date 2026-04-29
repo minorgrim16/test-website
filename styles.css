@@ -25,10 +25,6 @@ a:focus-visible {
   text-decoration: underline;
 }
 
-button {
-  font: inherit;
-}
-
 .page {
   width: min(100%, 1040px);
   margin: 0 auto;
@@ -51,54 +47,17 @@ button {
   font-size: 19px;
 }
 
-.nav-list,
-.submenu {
+.nav-list {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0 18px;
   margin: 0;
   padding: 0;
   list-style: none;
 }
 
-.nav-list {
-  display: flex;
-  flex-wrap: wrap;
-  gap: 0 18px;
-  align-items: flex-start;
-}
-
-.nav-list > li {
-  position: relative;
-}
-
-.nav-list > li > a,
-.submenu-toggle {
+.nav-list a {
   color: #111111;
-  background: none;
-  border: 0;
-  padding: 0;
-  cursor: pointer;
-}
-
-.submenu {
-  display: none;
-  position: absolute;
-  left: 0;
-  top: calc(100% + 4px);
-  min-width: 210px;
-  padding: 6px 0;
-  background: #ffffff;
-  border: 1px solid #d8d8d8;
-}
-
-.submenu li a {
-  display: block;
-  padding: 4px 10px;
-  white-space: nowrap;
-}
-
-.has-submenu:hover .submenu,
-.has-submenu:focus-within .submenu,
-.has-submenu.is-open .submenu {
-  display: block;
 }
 
 .page-title {
@@ -118,25 +77,9 @@ button {
   border-bottom: 1px solid #cfcfcf;
 }
 
-.feature-block p {
+.feature-block p,
+.text-section p {
   margin: 0;
-}
-
-.bio-layout {
-  display: grid;
-  grid-template-columns: 290px 1fr;
-  gap: 22px;
-  align-items: start;
-}
-
-.photo-column img {
-  display: block;
-  width: 100%;
-  height: auto;
-}
-
-.photo-link {
-  margin: 10px 0 0;
 }
 
 .bio-copy p:first-child {
@@ -153,8 +96,21 @@ button {
   font-weight: 600;
 }
 
-.text-section p {
+.research-images {
+  display: grid;
+  gap: 18px;
+  margin-top: 18px;
+}
+
+.research-figure {
   margin: 0;
+}
+
+.research-figure img {
+  display: block;
+  width: 100%;
+  height: auto;
+  border: 1px solid #d8d8d8;
 }
 
 .site-footer {
@@ -177,20 +133,5 @@ button {
 
   .page-title {
     font-size: 34px;
-  }
-
-  .bio-layout {
-    grid-template-columns: 1fr;
-  }
-
-  .photo-column {
-    max-width: 360px;
-  }
-
-  .submenu {
-    position: static;
-    margin-top: 6px;
-    border: 0;
-    padding: 0;
   }
 }

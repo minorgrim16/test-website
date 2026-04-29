@@ -7,8 +7,11 @@ minimal academic homepage while using only placeholder content.
 
 - `index.html`: main page with placeholder navigation, profile copy, and sections
 - `styles.css`: minimalist academic-style layout and typography
-- `script.js`: dropdown behavior for the teaching and workshops menus
+- `script.js`: intentionally empty placeholder script file
 - `404.html`: custom not found page for GitHub Pages
+- `assets/research-chart-1.svg`: research image placeholder
+- `assets/research-chart-2.svg`: research image placeholder
+- `assets/research-chart-3.svg`: research image placeholder
 
 ## Publish on GitHub Pages
 
@@ -32,11 +35,5 @@ If the repository is named `YOUR-USERNAME.github.io`, it will publish at:
 
 - Replace `Lorem Ipsum` with your project or name.
 - Update the footer email and department placeholders in `index.html`.
-- Replace the placeholder image URL with your own hosted image if you want a different visual.
+- Replace the local research chart files in `assets/` if you want different images.
 - Edit the navigation labels and section text to match your real content.
-
-## Placeholder image source
-
-The placeholder image references the Federal Reserve Bank of New York image from Wikimedia Commons:
-
-- https://commons.wikimedia.org/wiki/File:Federal_Reserve_Bank_of_New_York_004.jpg

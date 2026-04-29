@@ -1,0 +1,48 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="752" height="452" viewBox="0 0 752 452" role="img" aria-labelledby="title1">
+  <title id="title1">Gen. &amp; Other State Funds Per Capita Corrections Spending in Real 2025 Dollars, 1991-2025</title>
+  <rect width="752" height="452" fill="#ffffff"/>
+  <rect x="1" y="1" width="750" height="450" fill="none" stroke="#d5d5d5"/>
+  <text x="376" y="38" text-anchor="middle" font-family="Arial, sans-serif" font-size="22" fill="#555555">Gen. &amp; Other State Funds Per Capita Corrections Spending in</text>
+  <text x="376" y="66" text-anchor="middle" font-family="Arial, sans-serif" font-size="22" fill="#555555">Real 2025 Dollars, 1991-2025</text>
+  <g stroke="#cfcfcf" stroke-width="2">
+    <line x1="100" y1="97" x2="722" y2="97"/>
+    <line x1="100" y1="138" x2="722" y2="138"/>
+    <line x1="100" y1="179" x2="722" y2="179"/>
+    <line x1="100" y1="220" x2="722" y2="220"/>
+    <line x1="100" y1="261" x2="722" y2="261"/>
+    <line x1="100" y1="302" x2="722" y2="302"/>
+    <line x1="100" y1="342" x2="722" y2="342"/>
+    <line x1="100" y1="381" x2="722" y2="381"/>
+  </g>
+  <g font-family="Arial, sans-serif" font-size="18" fill="#555555">
+    <text x="17" y="104">$350.00</text>
+    <text x="17" y="145">$300.00</text>
+    <text x="17" y="186">$250.00</text>
+    <text x="17" y="227">$200.00</text>
+    <text x="17" y="268">$150.00</text>
+    <text x="17" y="309">$100.00</text>
+    <text x="17" y="349">$50.00</text>
+    <text x="56" y="388">$-</text>
+  </g>
+  <g font-family="Arial, sans-serif" font-size="16" fill="#555555">
+    <text transform="translate(111 429) rotate(-45)" text-anchor="end">1991</text>
+    <text transform="translate(146 429) rotate(-45)" text-anchor="end">1993</text>
+    <text transform="translate(181 429) rotate(-45)" text-anchor="end">1995</text>
+    <text transform="translate(216 429) rotate(-45)" text-anchor="end">1997</text>
+    <text transform="translate(251 429) rotate(-45)" text-anchor="end">1999</text>
+    <text transform="translate(286 429) rotate(-45)" text-anchor="end">2001</text>
+    <text transform="translate(321 429) rotate(-45)" text-anchor="end">2003</text>
+    <text transform="translate(356 429) rotate(-45)" text-anchor="end">2005</text>
+    <text transform="translate(391 429) rotate(-45)" text-anchor="end">2007</text>
+    <text transform="translate(426 429) rotate(-45)" text-anchor="end">2009</text>
+    <text transform="translate(461 429) rotate(-45)" text-anchor="end">2011</text>
+    <text transform="translate(496 429) rotate(-45)" text-anchor="end">2013</text>
+    <text transform="translate(531 429) rotate(-45)" text-anchor="end">2015</text>
+    <text transform="translate(566 429) rotate(-45)" text-anchor="end">2017</text>
+    <text transform="translate(601 429) rotate(-45)" text-anchor="end">2019</text>
+    <text transform="translate(636 429) rotate(-45)" text-anchor="end">2021</text>
+    <text transform="translate(671 429) rotate(-45)" text-anchor="end">2023</text>
+    <text transform="translate(706 429) rotate(-45)" text-anchor="end">2025</text>
+  </g>
+  <path d="M110 145 L128 180 L146 194 L164 186 L182 110 L200 118 L218 123 L236 150 L254 150 L272 175 L290 189 L308 208 L326 206 L344 211 L362 204 L380 209 L398 160 L416 171 L434 176 L452 164 L470 196 L488 211 L506 193 L524 215 L542 212 L560 224 L578 230 L596 236 L614 233 L626 229 L643 225 L661 298 L679 257 L697 262 L714 250" fill="none" stroke="#1f6787" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>

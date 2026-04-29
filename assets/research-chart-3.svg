@@ -1,0 +1,71 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="755" height="498" viewBox="0 0 755 498" role="img" aria-labelledby="title3">
+  <title id="title3">NYS Per Capita Spending by Characteristics, in Real 2025 Dollars</title>
+  <rect width="755" height="498" fill="#ffffff"/>
+  <rect x="1" y="1" width="753" height="496" fill="none" stroke="#d5d5d5"/>
+  <text x="377" y="39" text-anchor="middle" font-family="Arial, sans-serif" font-size="22" fill="#555555">NYS Per Capita Spending by Characteristics, in Real 2025 Dollars</text>
+  <g stroke="#d0d0d0" stroke-width="2">
+    <line x1="79" y1="105" x2="715" y2="105"/>
+    <line x1="79" y1="136" x2="715" y2="136"/>
+    <line x1="79" y1="168" x2="715" y2="168"/>
+    <line x1="79" y1="199" x2="715" y2="199"/>
+    <line x1="79" y1="231" x2="715" y2="231"/>
+    <line x1="79" y1="262" x2="715" y2="262"/>
+    <line x1="79" y1="294" x2="715" y2="294"/>
+    <line x1="79" y1="325" x2="715" y2="325"/>
+    <line x1="79" y1="357" x2="715" y2="357"/>
+    <line x1="79" y1="388" x2="715" y2="388"/>
+    <line x1="79" y1="420" x2="715" y2="420"/>
+  </g>
+  <g font-family="Arial, sans-serif" font-size="18" fill="#555555">
+    <text x="48" y="111">18000</text>
+    <text x="48" y="142">16000</text>
+    <text x="48" y="174">14000</text>
+    <text x="48" y="205">12000</text>
+    <text x="48" y="237">10000</text>
+    <text x="48" y="268">8000</text>
+    <text x="48" y="300">6000</text>
+    <text x="48" y="331">4000</text>
+    <text x="48" y="363">2000</text>
+    <text x="51" y="426">0</text>
+  </g>
+  <g font-family="Arial, sans-serif" font-size="16" fill="#555555">
+    <text transform="translate(86 464) rotate(-45)" text-anchor="end">1991</text>
+    <text transform="translate(111 464) rotate(-45)" text-anchor="end">1993</text>
+    <text transform="translate(136 464) rotate(-45)" text-anchor="end">1995</text>
+    <text transform="translate(161 464) rotate(-45)" text-anchor="end">1997</text>
+    <text transform="translate(186 464) rotate(-45)" text-anchor="end">1999</text>
+    <text transform="translate(211 464) rotate(-45)" text-anchor="end">2001</text>
+    <text transform="translate(236 464) rotate(-45)" text-anchor="end">2003</text>
+    <text transform="translate(261 464) rotate(-45)" text-anchor="end">2005</text>
+    <text transform="translate(286 464) rotate(-45)" text-anchor="end">2007</text>
+    <text transform="translate(311 464) rotate(-45)" text-anchor="end">2009</text>
+    <text transform="translate(336 464) rotate(-45)" text-anchor="end">2011</text>
+    <text transform="translate(361 464) rotate(-45)" text-anchor="end">2013</text>
+    <text transform="translate(386 464) rotate(-45)" text-anchor="end">2015</text>
+    <text transform="translate(411 464) rotate(-45)" text-anchor="end">2017</text>
+    <text transform="translate(436 464) rotate(-45)" text-anchor="end">2019</text>
+    <text transform="translate(461 464) rotate(-45)" text-anchor="end">2021</text>
+    <text transform="translate(486 464) rotate(-45)" text-anchor="end">2023</text>
+    <text transform="translate(511 464) rotate(-45)" text-anchor="end">2025</text>
+  </g>
+  <path d="M79 420 L98 413 L117 416 L136 411 L155 410 L174 412 L193 410 L212 418 L231 404 L250 391 L269 393 L288 401 L307 383 L326 389 L345 389 L364 383 L383 381 L402 378 L421 379 L440 383 L459 383 L478 384 L497 383 L516 378 L535 384 L554 381 L573 375 L592 390 L611 350 L630 344 L649 351 L668 351 L687 348 L706 349 L715 348 L715 420 Z" fill="#a12d9d"/>
+  <path d="M79 420 L98 413 L117 416 L136 411 L155 410 L174 412 L193 410 L212 418 L231 404 L250 391 L269 393 L288 401 L307 383 L326 389 L345 389 L364 383 L383 381 L402 378 L421 379 L440 383 L459 383 L478 384 L497 383 L516 378 L535 384 L554 381 L573 375 L592 390 L611 350 L630 344 L649 351 L668 351 L687 348 L706 349 L715 348 L715 293 L706 292 L687 292 L668 287 L649 288 L630 284 L611 287 L592 320 L573 304 L554 299 L535 296 L516 298 L497 297 L478 295 L459 294 L440 294 L421 289 L402 286 L383 289 L364 283 L345 287 L326 283 L307 285 L288 299 L269 294 L250 295 L231 308 L212 313 L193 297 L174 303 L155 295 L136 294 L117 301 L98 292 L79 286 Z" fill="#f1732b"/>
+  <path d="M79 286 L98 292 L117 301 L136 294 L155 295 L174 303 L193 297 L212 313 L231 308 L250 295 L269 294 L288 299 L307 285 L326 283 L345 287 L364 283 L383 289 L402 286 L421 289 L440 294 L459 294 L478 295 L497 297 L516 298 L535 296 L554 299 L573 304 L592 320 L611 287 L630 284 L649 288 L668 287 L687 292 L706 292 L715 293 L715 262 L706 261 L687 258 L668 257 L649 254 L630 252 L611 260 L592 250 L573 240 L554 237 L535 229 L516 225 L497 231 L478 237 L459 241 L440 245 L421 242 L402 240 L383 237 L364 244 L345 246 L326 241 L307 239 L288 255 L269 251 L250 249 L231 269 L212 268 L193 262 L174 262 L155 249 L136 250 L117 258 L98 250 L79 248 Z" fill="#1fa6df"/>
+  <path d="M79 248 L98 250 L117 258 L136 250 L155 249 L174 262 L193 262 L212 268 L231 269 L250 249 L269 251 L288 255 L307 239 L326 241 L345 246 L364 244 L383 237 L402 240 L421 242 L440 245 L459 241 L478 237 L497 231 L516 225 L535 229 L554 237 L573 240 L592 250 L611 260 L630 252 L649 254 L668 257 L687 258 L706 261 L715 262 L715 241 L706 239 L687 238 L668 236 L649 236 L630 237 L611 240 L592 236 L573 228 L554 222 L535 217 L516 211 L497 208 L478 210 L459 213 L440 212 L421 209 L402 205 L383 209 L364 205 L345 206 L326 213 L307 213 L288 212 L269 226 L250 219 L231 216 L212 227 L193 228 L174 223 L155 223 L136 214 L117 218 L98 212 L79 209 Z" fill="#257933"/>
+  <path d="M79 209 L98 212 L117 218 L136 214 L155 223 L174 223 L193 228 L212 227 L231 216 L250 219 L269 226 L288 212 L307 213 L326 213 L345 206 L364 205 L383 209 L402 205 L421 209 L440 212 L459 213 L478 210 L497 208 L516 211 L535 217 L554 222 L573 228 L592 236 L611 240 L630 237 L649 236 L668 236 L687 238 L706 239 L715 241 L715 224 L706 223 L687 222 L668 220 L649 220 L630 220 L611 222 L592 219 L573 214 L554 209 L535 205 L516 203 L497 199 L478 197 L459 198 L440 196 L421 195 L402 191 L383 194 L364 192 L345 192 L326 197 L307 196 L288 194 L269 204 L250 198 L231 195 L212 201 L193 203 L174 201 L155 201 L136 194 L117 196 L98 190 L79 188 Z" fill="#163544"/>
+  <path d="M79 188 L98 190 L117 196 L136 194 L155 201 L174 201 L193 203 L212 201 L231 195 L250 198 L269 204 L288 194 L307 196 L326 197 L345 192 L364 192 L383 194 L402 191 L421 195 L440 196 L459 198 L478 197 L497 199 L516 203 L535 205 L554 209 L573 214 L592 219 L611 222 L630 220 L649 220 L668 220 L687 222 L706 223 L715 224 L715 211 L706 210 L687 209 L668 205 L649 205 L630 202 L611 203 L592 209 L573 202 L554 197 L535 191 L516 188 L497 187 L478 184 L459 182 L440 183 L421 181 L402 181 L383 177 L364 180 L345 177 L326 177 L307 182 L288 181 L269 177 L250 186 L231 181 L212 178 L193 183 L174 184 L155 181 L136 181 L117 174 L98 176 L79 173 Z" fill="#63b835"/>
+  <g font-family="Arial, sans-serif" font-size="16" fill="#555555">
+    <rect x="89" y="473" width="11" height="11" fill="#a12d9d"/>
+    <text x="104" y="484">All Other</text>
+    <rect x="189" y="473" width="11" height="11" fill="#f1732b"/>
+    <text x="204" y="484">Medicaid</text>
+    <rect x="292" y="473" width="11" height="11" fill="#1fa6df"/>
+    <text x="307" y="484">K12</text>
+    <rect x="357" y="473" width="11" height="11" fill="#257933"/>
+    <text x="372" y="484">Transport</text>
+    <rect x="462" y="473" width="11" height="11" fill="#163544"/>
+    <text x="477" y="484">Higher Ed</text>
+    <rect x="572" y="473" width="11" height="11" fill="#63b835"/>
+    <text x="587" y="484">Corrections</text>
+  </g>
+</svg>

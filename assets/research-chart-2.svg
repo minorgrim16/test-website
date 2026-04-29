@@ -1,0 +1,60 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="752" height="452" viewBox="0 0 752 452" role="img" aria-labelledby="title2">
+  <title id="title2">Gen. &amp; Other State Funds Per Capita Corrections Spending vs. All Per Capita Corrections Spending in Real 2025 Dollars, 1991-2025</title>
+  <rect width="752" height="452" fill="#ffffff"/>
+  <rect x="1" y="1" width="750" height="450" fill="none" stroke="#d5d5d5"/>
+  <text x="376" y="38" text-anchor="middle" font-family="Arial, sans-serif" font-size="22" fill="#555555">Gen. &amp; Other State Funds Per Capita Corrections Spending vs.</text>
+  <text x="376" y="66" text-anchor="middle" font-family="Arial, sans-serif" font-size="22" fill="#555555">All Per Capita Corrections Spending in Real 2025 Dollars, 1991-</text>
+  <text x="376" y="94" text-anchor="middle" font-family="Arial, sans-serif" font-size="22" fill="#555555">2025</text>
+  <g stroke="#cfcfcf" stroke-width="2">
+    <line x1="100" y1="125" x2="722" y2="125"/>
+    <line x1="100" y1="151" x2="722" y2="151"/>
+    <line x1="100" y1="177" x2="722" y2="177"/>
+    <line x1="100" y1="203" x2="722" y2="203"/>
+    <line x1="100" y1="229" x2="722" y2="229"/>
+    <line x1="100" y1="255" x2="722" y2="255"/>
+    <line x1="100" y1="281" x2="722" y2="281"/>
+    <line x1="100" y1="307" x2="722" y2="307"/>
+    <line x1="100" y1="333" x2="722" y2="333"/>
+    <line x1="100" y1="359" x2="722" y2="359"/>
+  </g>
+  <g font-family="Arial, sans-serif" font-size="18" fill="#555555">
+    <text x="17" y="132">$450.00</text>
+    <text x="17" y="158">$400.00</text>
+    <text x="17" y="184">$350.00</text>
+    <text x="17" y="210">$300.00</text>
+    <text x="17" y="236">$250.00</text>
+    <text x="17" y="262">$200.00</text>
+    <text x="17" y="288">$150.00</text>
+    <text x="17" y="314">$100.00</text>
+    <text x="17" y="340">$50.00</text>
+    <text x="56" y="366">$-</text>
+  </g>
+  <g font-family="Arial, sans-serif" font-size="16" fill="#555555">
+    <text transform="translate(111 429) rotate(-45)" text-anchor="end">1991</text>
+    <text transform="translate(146 429) rotate(-45)" text-anchor="end">1993</text>
+    <text transform="translate(181 429) rotate(-45)" text-anchor="end">1995</text>
+    <text transform="translate(216 429) rotate(-45)" text-anchor="end">1997</text>
+    <text transform="translate(251 429) rotate(-45)" text-anchor="end">1999</text>
+    <text transform="translate(286 429) rotate(-45)" text-anchor="end">2001</text>
+    <text transform="translate(321 429) rotate(-45)" text-anchor="end">2003</text>
+    <text transform="translate(356 429) rotate(-45)" text-anchor="end">2005</text>
+    <text transform="translate(391 429) rotate(-45)" text-anchor="end">2007</text>
+    <text transform="translate(426 429) rotate(-45)" text-anchor="end">2009</text>
+    <text transform="translate(461 429) rotate(-45)" text-anchor="end">2011</text>
+    <text transform="translate(496 429) rotate(-45)" text-anchor="end">2013</text>
+    <text transform="translate(531 429) rotate(-45)" text-anchor="end">2015</text>
+    <text transform="translate(566 429) rotate(-45)" text-anchor="end">2017</text>
+    <text transform="translate(601 429) rotate(-45)" text-anchor="end">2019</text>
+    <text transform="translate(636 429) rotate(-45)" text-anchor="end">2021</text>
+    <text transform="translate(671 429) rotate(-45)" text-anchor="end">2023</text>
+    <text transform="translate(706 429) rotate(-45)" text-anchor="end">2025</text>
+  </g>
+  <path d="M110 203 L128 229 L146 237 L164 232 L182 172 L200 177 L218 180 L236 194 L254 194 L272 211 L290 221 L308 229 L326 227 L344 231 L362 228 L380 230 L398 206 L416 214 L434 217 L452 210 L470 234 L488 243 L506 232 L524 243 L542 241 L560 250 L578 256 L596 260 L614 259 L626 256 L643 252 L661 333 L679 290 L697 294 L714 287" fill="none" stroke="#1f6787" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M110 144 L128 185 L146 198 L164 190 L182 150 L200 165 L218 176 L236 180 L254 165 L272 177 L290 206 L308 219 L326 218 L344 219 L362 217 L380 220 L398 199 L416 202 L434 201 L452 197 L470 222 L488 231 L506 228 L524 235 L542 241 L560 245 L578 247 L596 246 L614 248 L626 242 L643 237 L661 251 L679 276 L697 278 L714 270" fill="none" stroke="#257933" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
+  <g font-family="Arial, sans-serif" font-size="16" fill="#555555">
+    <line x1="178" y1="412" x2="219" y2="412" stroke="#1f6787" stroke-width="5" stroke-linecap="round"/>
+    <text x="224" y="418">Gen. &amp; Other State Funds</text>
+    <line x1="442" y1="412" x2="483" y2="412" stroke="#257933" stroke-width="5" stroke-linecap="round"/>
+    <text x="488" y="418">All Spending</text>
+  </g>
+</svg>
